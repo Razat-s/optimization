@@ -1,5 +1,5 @@
 # optimization
-Following are the assignments of Optimization course EE5327
+Following are the assignments of Optimization course EE5327 in IIT Hyderabad
 
 ## ADAM - Optimization : 
 The ADAM optimization directory has the implementation of various gradient optimization techniques implemented in python using only numpy.
