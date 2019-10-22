@@ -8,6 +8,7 @@ var = None
 def gaussian():
     return (1/np.sqrt(2 * np.pi*var)) * np.exp(-((x-mu)**2)/2*(var))
 
+# Plotting Distribution
 x = np.linspace(-5,5,200)
 for i in range(4):
     for j in range(4):
