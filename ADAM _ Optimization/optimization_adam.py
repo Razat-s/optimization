@@ -67,7 +67,7 @@ print('shape of test labels=',y_test.shape)
 
 
 # In[6]:
-
+################### Neural Network #####################
 class ThreeLayerNet(object):
     def __init__(self,input_size,hidden_size1,hidden_size2,output_size):
         self.parameters={}
